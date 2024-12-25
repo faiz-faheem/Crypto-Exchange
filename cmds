@@ -1,0 +1,9 @@
+
+to deploy contract to sepolia network
+docker run hardhat-sepolia
+
+docker run --rm web3-container npx hardhat run scripts/deploy.js --network sepolia
+
+server4.0: digest: sha256:797507d195d4fb36fb181f84baf017668283320e0cdd18053f3ddc3d50af57ec size: 2840
+client4.0: digest: sha256:a84186ce07f2b548d4daafb1d84079f25dbb4e6bdb985b83b57c1d24bc7a0759 size: 2846
+web34.0: digest: sha256:b0fa4a027eb84009d1fa67e849a9fd3c6520c73d5c10504fb23a4858deade197 size: 3058
