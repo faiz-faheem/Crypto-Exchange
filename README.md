@@ -44,3 +44,6 @@ Home Page:</b>
 
 7. Services section with features and a footer with contact info.
 ![image](https://github.com/user-attachments/assets/72de1a82-6477-4c19-9cc6-8e90f8fe7046)
+
+8. Sepolia Etherscan shows transactions added to the blockchain.
+![image](https://github.com/user-attachments/assets/2f5a32f0-78e0-4fc2-8675-820ae018a7aa)
