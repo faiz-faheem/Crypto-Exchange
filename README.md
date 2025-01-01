@@ -23,6 +23,7 @@ SmartContract: docker pull faizfaheem/cryptoexchange:web34.0
 
 
 <b>Results
+</br>
 Home Page:</b>
 </br>
 1. Displays the connected account in a card.
@@ -31,19 +32,31 @@ Home Page:</b>
 2. A form to add receiver’s address, amount in Ethereum, a keyword for the gif, and any text.
 ![image](https://github.com/user-attachments/assets/67f4ec8c-4c70-43c1-ac8b-e47e4d2a6eee)
 
+<b>Market:</b>
+</br>
 3. Market page shows top 100 currencies with live data, search functionality for coins, and toggle between USD and INR.
 ![image](https://github.com/user-attachments/assets/f4d67eee-89b4-443b-bc8f-91cd65be588e)
 
+<b>Transactions:</b>
+</br>
 4. Displays the latest transactions of the connected account, showing time and gif related to the entered keyword.
 ![image](https://github.com/user-attachments/assets/6c82498f-3f59-46df-a30b-23b511d0a311)
 
+<b>About:</b>
+</br>
 5. About page with project details.
 ![image](https://github.com/user-attachments/assets/76909b70-f746-472f-b6ce-88c33aa3d1b9)
 
+<b>ChatBot</b>
+</br>
 6. Basic chatbot functionality.
 
+<b>Services and Footer:</b>
+</br>
 7. Services section with features and a footer with contact info.
 ![image](https://github.com/user-attachments/assets/72de1a82-6477-4c19-9cc6-8e90f8fe7046)
 
+<b>Blockchain:</b>
+</br>
 8. Sepolia Etherscan shows transactions added to the blockchain.
 ![image](https://github.com/user-attachments/assets/2f5a32f0-78e0-4fc2-8675-820ae018a7aa)
